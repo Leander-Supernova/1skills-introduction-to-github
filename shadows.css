@@ -1,0 +1,17 @@
+
+:root {
+    --shadowDarkElevation06: 0 2px 8px 0 rgba(0,0,0,0.08), 0 20px 32px 0 rgba(0,0,0,0.32);  
+    --shadowDarkElevation05: 0 2px 8px 0 rgba(0,0,0,0.04), 0 16px 24px 0 rgba(0,0,0,0.32);  
+    --shadowDarkElevation04: 0 2px 4px 0 rgba(0,0,0,0.04), 0 8px 16px 0 rgba(0,0,0,0.32);  
+    --shadowDarkElevation03: 0 0 2px 0 rgba(0,0,0,0.04), 0 4px 8px 0 rgba(0,0,0,0.32);  
+    --shadowDarkElevation02: 0 0 1px 0 rgba(0,0,0,0.04), 0 2px 4px 0 rgba(0,0,0,0.32);  
+    --shadowDarkElevation01: 0 0 1px 0 rgba(40,41,61,0.08), 0 1px 2px 0 rgba(0,0,0,0.32);  
+    --shadowLightElevation06: 0 2px 8px 0 rgba(40,41,61,0.08), 0 20px 32px 0 rgba(96,97,112,0.24);  
+    --shadowLightElevation05: 0 2px 8px 0 rgba(40,41,61,0.04), 0 16px 24px 0 rgba(96,97,112,0.16);  
+    --shadowLightElevation04: 0 2px 4px 0 rgba(40,41,61,0.04), 0 8px 16px 0 rgba(96,97,112,0.16);  
+    --shadowLightElevation03: 0 0 2px 0 rgba(40,41,61,0.04), 0 4px 8px 0 rgba(96,97,112,0.16);  
+    --shadowLightElevation02: 0 0 1px 0 rgba(40,41,61,0.04), 0 2px 4px 0 rgba(96,97,112,0.16);  
+    --shadowLightElevation01: 0 0 1px 0 rgba(40,41,61,0.08), 0 0.5px 2px 0 rgba(96,97,112,0.16);  
+    --shadowLightElevation01Inset_: inset 0 0.5px 4px 0 rgba(96,97,112,0.32);  
+    --shadowDarkElevation01Inset_: inset 0 0.5px 4px 0 rgba(0,0,0,0.32);  
+}
