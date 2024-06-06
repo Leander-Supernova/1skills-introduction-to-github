@@ -1,0 +1,1642 @@
+            
+            
+            .typographyStylizedTiny 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 10px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyStylizedSmall 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyStylizedCapitalized 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              letter-spacing: 0.14em;
+              text-indent: 0px;
+              text-transform: uppercase;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingsH2 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 32px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingsH1 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 40px;
+              line-height: 54px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingsH3 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 28px;
+              line-height: 38px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingsH4 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 24px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingsH5 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 20px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingsH6 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 16px;
+              line-height: 22px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBody16pt 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBody14pt 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyStylizedBlockquote 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyStylizedLead 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 14px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyTypographyLargeLabel 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 14px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyTypographyMediumLabel 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 12px;
+              line-height: 16px;
+              letter-spacing: 0.02em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyTypographySmallLabel 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 10px;
+              line-height: 14px;
+              letter-spacing: 0.02em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayDisplay1 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 64px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayDisplay2 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 56px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsPageTitle 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 560px;
+              letter-spacing: 0.02em;
+              text-indent: 0px;
+              text-transform: capitalize;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsSectionTitle 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 160px;
+              letter-spacing: 0.01em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsCategoryTitle 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 54px;
+              line-height: 72px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsComponentDescription 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsComponentName 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsComponentSubtitle 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 16px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDocsComponentSmallDescription 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyActionLinkLarge 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyActionButtonMedium 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphBaseHeavy 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphBaseRegular 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeRegular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 41px;
+              line-height: 48px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeLight0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 41px;
+              line-height: 48px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeHeavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 41px;
+              line-height: 48px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeHeavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 51px;
+              line-height: 56px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeRegular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 51px;
+              line-height: 56px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeLight576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 51px;
+              line-height: 56px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeHeavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 69px;
+              line-height: 76px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeRegular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 69px;
+              line-height: 76px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplayLargeLight1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 69px;
+              line-height: 76px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallHeavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 36px;
+              line-height: 40px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallRegular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 36px;
+              line-height: 40px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallLight0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 36px;
+              line-height: 40px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallHeavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 44px;
+              line-height: 48px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallRegular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 44px;
+              line-height: 48px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallLight576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 44px;
+              line-height: 48px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallHeavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 57px;
+              line-height: 64px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallRegular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 57px;
+              line-height: 64px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyDisplaySmallLight1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 57px;
+              line-height: 64px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Heavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 32px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Regular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 32px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Light0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 32px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Heavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 38px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Regular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 38px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Light576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 38px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Heavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 48px;
+              line-height: 52px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Regular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 48px;
+              line-height: 52px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF1Light1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 48px;
+              line-height: 52px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Heavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 29px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Regular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 29px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Light0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 29px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Heavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 33px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Regular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 33px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Light576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 33px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Heavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 40px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Regular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 40px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF2Light1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 40px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Heavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 26px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Regular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 26px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Light0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 26px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Heavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 28px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Regular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 28px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Light576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 28px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Heavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 33px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Regular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 33px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF3Light1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 33px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Heavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 23px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Regular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 23px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Light0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 23px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Heavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 24px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Regular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 24px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Light576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 24px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Heavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 28px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Regular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 28px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF4Light1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 28px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Heavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Regular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 20px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Light0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 20px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Heavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 21px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Regular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 21px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Light576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 21px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Heavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 23px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Regular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 23px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF5Light1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 23px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Heavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Regular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 18px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Light0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 18px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Heavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Regular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 18px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Light576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 18px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Heavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 19px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Regular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 19px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyF6Light1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 19px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeHeavy0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 20px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeRegular0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 20px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeLight0_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 20px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeHeavy576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 21px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeRegular576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 21px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeLight576_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 21px;
+              line-height: 32px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeHeavy1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 23px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeRegular1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 23px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphLargeLight1200_ 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 23px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphBaseLight 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphSmallHeavy 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphSmallRegular 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphSmallLight 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphXsmallHeavy 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 11px;
+              line-height: 16px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphXsmallRegular 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 11px;
+              line-height: 16px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphXsmallLight 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 11px;
+              line-height: 16px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphTinyHeavy 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 9px;
+              line-height: 12px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphTinyRegular 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 9px;
+              line-height: 12px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphTinyLight 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 9px;
+              line-height: 12px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallCapsHeavy 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0.05em;
+              text-indent: 0px;
+              text-transform: uppercase;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallCapsRegular 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0.05em;
+              text-indent: 0px;
+              font-variant: small-caps;
+              margin-bottom: 0px;
+              }            
+            
+            .typographySmallCapsLight 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 300;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0.06em;
+              text-indent: 0px;
+              font-variant: small-caps;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyActionButtonLarge 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyActionButtonSmall 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyActionLinkMedium 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyActionLinkSmall 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyParagraphSmallMedium 
+            {
+              font-family: "Barlow";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 13px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyRowPrimaryText 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 150%;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyRowSecondaryText 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 13px;
+              line-height: 150%;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeaderPrimary 
+            {
+              font-family: "Source Sans Pro";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 150%;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyBody1 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 16px;
+              line-height: 24px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyBody2 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 500;
+              font-size: 14px;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading1 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 36px;
+              line-height: 44px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading2 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 28px;
+              line-height: 36px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyHeadingHeading3 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 18px;
+              line-height: 28px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 0px;
+              }            
+            
+            .typographyBodyBody3 
+            {
+              font-family: "Inter";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              line-height: 16px;
+              letter-spacing: 0em;
+              text-indent: 0px;
+              margin-bottom: 8px;
+              }

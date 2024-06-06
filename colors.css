@@ -1,0 +1,210 @@
+
+:root {
+    --colorDarkDark2: #555770;    
+    --colorDarkDark3: #8f90a6;    
+    --colorPrimaryMainColor: #3e7bfa;    
+    --colorLightLight3: #fafafc;    
+    --colorDarkDark0: #1c1c28;    
+    --colorDarkDark4: #c7c9d9;    
+    --colorRedRed0: #e53535;    
+    --colorRedRed2: #ff5c5c;    
+    --colorRedRed1: #ff3b3b;    
+    --colorYellowYellow0: #e5b800;    
+    --colorYellowYellow2: #fddd48;    
+    --colorYellowYellow1: #ffcc00;    
+    --colorTealTeal0: #00b7c4;    
+    --colorTealTeal2: #73dfe7;    
+    --colorTealTeal1: #00cfde;    
+    --colorPurplePurple1: #6600cc;    
+    --colorPurplePurple2: #ac5dd9;    
+    --colorPurplePurple0: #4d0099;    
+    --colorBlueBlue0: #004fc4;    
+    --colorBlueBlue2: #5b8def;    
+    --colorBlueBlue1: #0063f7;    
+    --colorOrangeOrange0: #e57a00;    
+    --colorOrangeOrange2: #fdac42;    
+    --colorOrangeOrange1: #ff8800;    
+    --colorGreenGreen0: #05a660;    
+    --colorGreenGreen2: #39d98a;    
+    --colorGreenGreen1: #06c270;    
+    --colorLightLight0: #e4e4eb;    
+    --colorLightLight2: #f2f2f5;    
+    --colorLightLight1: #ebebf0;    
+    --colorDarkDark1: #28293d;    
+    --colorPrimaryLighter: #6698fa;    
+    --colorPrimaryDarker: #3568d4;    
+    --colorLightLight4: #ffffff;    
+    --colorPrimarySubtle: #ccddff;    
+    --colorBlueBlue4: #e5f0ff;    
+    --colorBlueBlue3: #9dbff9;    
+    --colorTealTeal4: #e5ffff;    
+    --colorTealTeal3: #a9eff2;    
+    --colorGreenGreen4: #e3fff1;    
+    --colorGreenGreen3: #57eba1;    
+    --colorYellowYellow4: #fffee5;    
+    --colorYellowYellow3: #fded72;    
+    --colorOrangeOrange4: #fff8e5;    
+    --colorOrangeOrange3: #fccc75;    
+    --colorRedRed4: #ffe5e5;    
+    --colorRedRed3: #ff8080;    
+    --colorPurplePurple4: #ffe5ff;    
+    --colorPurplePurple3: #dda5e9;    
+    --colorNeutralWhite: #ffffff;    
+    --colorPrimaryPrimary10_: #e86c001a;    
+    --colorNeutralNeutral9: #f4f6f9;    
+    --colorPrimaryPrimary100_: #e86c00;    
+    --colorNeutralBlack: #272833;    
+    --colorPrimaryPrimary50_: #e86c0080;    
+    --colorNeutralNeutral8: #ebeef2;    
+    --colorNeutralNeutral2: #394452;    
+    --colorActionPrimaryDefault: #e86c00;    
+    /* Disabled Action */
+    --colorNeutralNeutral6: #a5abb3;    
+    --colorNeutralNeutral1: #2c3a4b;    
+    --colorStatusSuccess: #287d3c;    
+    --colorNeutralNeutral3: #545d69;    
+    --colorStatusWarning: #b95000;    
+    --colorActionPrimaryHover10_: #cc5f001a;    
+    --colorActionPrimaryInverted: #ffffff;    
+    --colorNeutralNeutral4: #6d7580;    
+    --colorPrimaryPrimary90_: #e86c00e5;    
+    --colorPrimaryPrimary80_: #e86c00cc;    
+    --colorPrimaryPrimary70_: #e86c00b2;    
+    --colorPrimaryPrimary60_: #e86c0099;    
+    --colorPrimaryPrimary40_: #e86c0066;    
+    --colorPrimaryPrimary30_: #e86c004d;    
+    --colorPrimaryPrimary20_: #e86c0033;    
+    --colorSecondarySecondary100_: #fdcc4a;    
+    --colorSecondarySecondary90_: #fdcc4ae5;    
+    --colorSecondarySecondary80_: #fdcc4acc;    
+    --colorSecondarySecondary70_: #fdcc4ab2;    
+    --colorSecondarySecondary60_: #fdcc4a99;    
+    --colorSecondarySecondary50_: #fdcc4a80;    
+    --colorSecondarySecondary40_: #fdcc4a66;    
+    --colorSecondarySecondary30_: #fdcc4a4d;    
+    --colorSecondarySecondary20_: #fdcc4a33;    
+    --colorSecondarySecondary10_: #fdcc4a1a;    
+    /* Icon default color */
+    --colorNeutralNeutral5: #858c94;    
+    --colorNeutralNeutral7: #dadee3;    
+    --colorAccentAccent1: #ecb2f2;    
+    --colorAccentAccent2: #2d6a6a;    
+    --colorAccentAccent3: #e9ad8c;    
+    --colorAccentAccent4: #221874;    
+    --colorAccentAccent5: #e55e75;    
+    --colorAccentAccent6: #e1604d;    
+    --colorAccentAccent128_: #ecb2f247;    
+    --colorAccentAccent210_: #2d6a6a1a;    
+    --colorAccentAccent323_: #e9ad8c3b;    
+    --colorAccentAccent410_: #2218741a;    
+    --colorAccentAccent525_: #7cc6d640;    
+    --colorAccentAccent615_: #e1604d26;    
+    --colorActionPrimaryHover: #cc5f00;    
+    --colorActionPrimaryActive: #b25300;    
+    --colorActionPrimaryDisabled: #e86c0080;    
+    --colorActionPrimaryActive20_: #b2530033;    
+    --colorActionPrimaryVisited: #5e38ba;    
+    --colorActionSecondaryDefault: #19ab4f;    
+    --colorActionSecondaryHover: #0c9e42;    
+    --colorActionSecondaryActive: #009236;    
+    --colorActionSecondaryDisabled: #19ab4f80;    
+    --colorActionSecondaryHover10_: #0c9d411a;    
+    --colorActionSecondaryActive20_: #00943633;    
+    --colorActionSecondaryInverted: #ffffff;    
+    --colorActionSecondaryVisited: #5e38ba;    
+    --colorActionNeutralDefault: #9098a1;    
+    --colorActionNeutralHover: #858c94;    
+    --colorActionNeutralActive: #798087;    
+    --colorActionNeutralDisabled: #9098a1b2;    
+    --colorActionNeutralHover10_: #6d75801a;    
+    --colorActionNeutralActive20_: #6d758033;    
+    --colorActionNeutralInverted: #ffffff;    
+    --colorActionNeutralVisited: #5e38ba;    
+    --colorStatusError: #da1414;    
+    --colorStatusInfo: #2e5aac;    
+    --colorStatusSuccessBg: #edf9f0;    
+    --colorStatusWarningBg: #fff4ec;    
+    --colorStatusErrorBg: #feefef;    
+    --colorStatusInfoBg: #eef2fa;    
+    --colorColorBlackInactive: #000000;    
+    --colorLightShade300_: #ececec;    
+    --colorActionPrimary: #cc2431;    
+    --colorNeutralShade100: #a1a1a1;    
+    --colorBaseGray200: #f6f7f9;    
+    --colorBaseGray300: #e6e8ef;    
+    --colorBaseGray500: #c6ccdb;    
+    --colorBaseGray600: #7f8594;    
+    --colorBaseGray700: #606981;    
+    --colorBasePurple200: #f5f2fd;    
+    --colorBasePurple300: #d9c8f5;    
+    --colorBasePurple500: #be9ff0;    
+    --colorBasePurple600: #a275ea;    
+    --colorBasePurple700: #874ce6;    
+    --colorBaseBlue200: #ecf5ff;    
+    --colorBaseBlue300: #d1e2ff;    
+    --colorBaseBlue500: #5292ff;    
+    --colorBaseBlue600: #1062fe;    
+    --colorBaseBlue700: #014ee1;    
+    --colorBaseGreen200: #ebfef6;    
+    --colorBaseGreen300: #b4e9c5;    
+    --colorBaseGreen500: #6ac883;    
+    --colorBaseGreen600: #35a24f;    
+    --colorBaseGreen700: #007a1c;    
+    --colorBaseBlack: #000000;    
+    --colorBaseWhite: #ffffff;    
+    /* For use in combination with Blur tokens. */
+    --colorBackgroundBlur: #ffffffcc;    
+    /* For use in combination with Blur tokens. */
+    --colorBackgroundBlurNeutral: #606981cc;    
+    /* Neutral foreground color. Use for icons and text. */
+    --colorForegroundNeutral: #000000;    
+    /* Default border used for outlining elements. */
+    --colorBorderNeutral: #e6e8ef;    
+    /* Subtle foreground color. Use for secondary or placeholder text. */
+    --colorForegroundNeutralFaded: #606981;    
+    /* Border color for focus states. */
+    --colorBorderFocus: #5292ff;    
+    /* Primary border color. */
+    --colorBorderPrimary: #014ee1;    
+    /* Primary foreground color. Use for primary components and text, such as links. */
+    --colorForegroundPrimary: #014ee1;    
+    /* Use for disabled foreground components and text. */
+    --colorForegroundDisabled: #c6ccdb;    
+    /* Primary foreground color. Use for accent components and text. */
+    --colorForegroundSecondary: #874ce6;    
+    /* Positive foreground color. Use for positive components and text (i.e. Success message) */
+    --colorForegroundPositive: #007a1c;    
+    /* Subtle primary border color. */
+    --colorBorderPrimaryFaded: #d1e2ff;    
+    /* Secondary (alternate) background for pages or other components. */
+    --colorBackgroundNeutral: #f6f7f9;    
+    /* Positive border color. */
+    --colorBorderPositive: #007a1c;    
+    /* Subtle positive border color. */
+    --colorBorderPositiveFaded: #b4e9c5;    
+    /* Secondary positive border color. */
+    --colorBorderSecondaryFaded: #d9c8f5;    
+    /* Secondary border color. */
+    --colorBorderSecondary: #874ce6;    
+    /* Primary background for pages. */
+    --colorBackgroundPage: #ffffff;    
+    /* Background for primary components. */
+    --colorBackgroundPrimary: #014ee1;    
+    /* Highlighted background for primary components, for example, a hover state. */
+    --colorBackgroundPrimaryHighlighted: #1062fe;    
+    /* Light background for primary components. Can be combined with Foreground / Primary. */
+    --colorBackgroundPrimaryFaded: #ecf5ff;    
+    /* Background for components using a secondary (accent) color. */
+    --colorBackgroundSecondary: #874ce6;    
+    /* Highlighted background for components using a secondary color, for example, a hover state. */
+    --colorBackgroundSecondaryHighlighted: #a275ea;    
+    /* Light background for components used with secondary color. Can be combined with Foreground / Secondary. */
+    --colorBackgroundSecondaryFaded: #f5f2fd;    
+    /* Highlighted background for positive components, for example, a hover state. */
+    --colorBackgroundPositiveHighlighted: #35a24f;    
+    /* Light background for components used with a positive semantic meaning. Can be combined with Foreground / Positive. */
+    --colorBackgroundPositiveFaded: #ebfef6;    
+    /* Background for components used with a positive semantic meaning. */
+    --colorBackgroundPositive: #007a1c;    
+    --colorColorOdessyToken: var(--colorBlueBlue1);    
+}
